@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+git training
+-->
+<head>
+<<<<<<< HEAD
+	<title>very respectale website</title>
+=======
+	<title>great websit</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			i am not sure
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; ali 2014</p>
+=======
+			idiot
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
